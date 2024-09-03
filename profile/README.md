@@ -1,6 +1,6 @@
 # Welcome to Interactive Media Design Lab 🙌
 
-![iShot_2024-05-25_23 05 34](https://github.com/IMD-Lab/Wiki/assets/48873968/3a191710-5661-44a9-9870-601dcb547533)
+![banner_pic](https://cdn.jsdelivr.net/gh/shanpeng-m/images@main/uPic/20240903-131833-EdcPbI.png)
 
 1. [🏠Homepage - English](https://imdl.naist.jp/)
 
